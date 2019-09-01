@@ -1,9 +1,6 @@
 # SylvaBot
 A no-longer-functional twitch chatbot for SylvaCoin
 
-I'm really shaky on the licensing and I know some of my modules weren't licensed with GPL, but from what I understand as long as I don't release any binaries then I don't have to adhere to any licenses
-Someone let me know if I'm wrong, but I'm still only releasing this folder because I know it's all GPL and this is where almost all of my changes were made
-
 ## Features added ontop of CoeBot
 New commands:
 **!playwithme -** register for the list to play with sylva
